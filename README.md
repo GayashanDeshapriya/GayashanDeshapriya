@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/GayashanDeshapriya/GayashanDeshapriya/blob/main/ezgif.com-gif-maker.gif)
+![MasterHead](https://github.com/GayashanDeshapriya/GayashanDeshapriya/blob/main/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Gayashan Deshapriya</h1>
 <h3 align="center">a passionate Software developer from Sri Lanka</h3>
 
