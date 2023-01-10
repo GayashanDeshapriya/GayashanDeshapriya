@@ -1,6 +1,7 @@
+[![MasterHead](https://media0.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e471g38jvhgiw2sfafrivbw6buzu5ffo4zf2yrrjq74&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Gayashan Deshapriya</h1>
 <h3 align="center">a passionate full stack developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" heigt="350" src="https://media0.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e471g38jvhgiw2sfafrivbw6buzu5ffo4zf2yrrjq74&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" heigt="350" src="https://github.com/GayashanDeshapriya/GayashanDeshapriya/blob/main/ezgif.com-gif-maker.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayashandeshapriya&label=Profile%20views&color=0e75b6&style=flat" alt="gayashandeshapriya" /> </p>
