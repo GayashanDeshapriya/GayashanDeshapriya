@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://media0.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e471g38jvhgiw2sfafrivbw6buzu5ffo4zf2yrrjq74&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Gayashan Deshapriya</h1>
 <h3 align="center">a passionate full stack developer from Sri Lanka</h3>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
