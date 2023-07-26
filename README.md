@@ -23,6 +23,12 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
     <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs" />
   </a>
 </p>
+<p align="center">Programming Languages</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c,c++,python,java" />
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GayashanDeshapriya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
