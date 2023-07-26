@@ -48,6 +48,14 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
         </a>
       </p>
     </td>
+    <td>
+    <p align="center">Design Skills Tools</p>
+        <p align="center">
+        <a href="">
+          <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 
