@@ -3,7 +3,7 @@
 <img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm Gayashan Deshapriya</h1>
 
-A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love exploring innovative projects and collaborating with the open-source community. My repository houses personal projects, contributions, and side hustles.<br><br>💡 A problem-solver with an eye for detail, I seek elegant solutions to real-world challenges. Continuously learning, I enjoy experimenting with new technologies.<br><br>🤝 Let's connect and create together! Feel free to explore my work and join me on exciting projects. Together, we can make a difference in the tech world!<br><br>Happy coding! 😄👨‍💻
+A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love exploring innovative projects and collaborating with the open-source community. My repository houses personal projects, contributions, and side hustles.<br><br>💡 A problem-solver with an eye for detail, I seek elegant solutions to real-world challenges. Continuously learning, I enjoy experimenting with new technologies.<br><br>🤝 Let's connect and create together! Feel free to explore my work and join me on exciting projects. Together, we can make a difference in the tech world!<br><br>Happy coding! 👨‍💻
 
 
 ## 🌐 Socials: Connect With Me
