@@ -15,7 +15,7 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,mongodb,firebase,express,react,nodejs,typescript,next,mysql" />
   </a>
 </p>
 <p align="center">
