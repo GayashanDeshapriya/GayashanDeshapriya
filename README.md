@@ -8,6 +8,7 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
 ## 🌐 Socials: Connect With Me
 
 [![Linkedin](./Icons/LinkedIn.png)](https://www.linkedin.com/in/gayashan-deshapriya-9a121b1b1/)
+[![Behance](./Icons/behance.png)](https://www.behance.net/gayashan_96)
 
 # 💻 Tech Stack:
 
