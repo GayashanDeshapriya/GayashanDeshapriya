@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Linkedin](./Icons/LinkedIn.svg)](https://www.linkedin.com/in/gayashan-deshapriya-9a121b1b1/)
+[![Linkedin](./Icons/LinkedIn.png)](https://www.linkedin.com/in/gayashan-deshapriya-9a121b1b1/)
 
 (https://www.behance.net/gayashan_96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gayashan Deshapriya) 
 
