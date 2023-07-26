@@ -38,6 +38,16 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+    <p align="center">Database Technologies</p>
+        <p align="center">
+        <a href="">
+          <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 # 📊 GitHub Stats:
