@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](./Icons/LinkedIn.svg)
+[![LinkedIn](./Icons/LinkedIn.svg width="32" height="32")
 (https://www.behance.net/gayashan_96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gayashan Deshapriya) 
 
 # 💻 Tech Stack:
