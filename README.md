@@ -11,24 +11,37 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
 
 
 # 💻 Tech Stack:
-<p align="center">Front-end vs. back-end languages</p>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
-  </a>
-</p>
-<p align="center">Frameworks and Libraries</p>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs" />
-  </a>
-</p>
-<p align="center">Programming Languages</p>
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">Front-end vs. back-end languages</p>
+      <p align="center">
+        <a href="">
+          <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+        </a>
+      </p>
+    </td>
+
+    <td>
+      <p align="center">Frameworks and Libraries</p>
+      <p align="center">
+        <a href="">
+          <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs" />
+        </a>
+      </p>
+    </td>
+
+    <td>
+      <p align="center">Programming Languages</p>
+      <p align="center">
+        <a href="">
+          <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GayashanDeshapriya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
