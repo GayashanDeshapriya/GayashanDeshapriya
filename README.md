@@ -6,7 +6,7 @@
 A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love exploring innovative projects and collaborating with the open-source community. My repository houses personal projects, contributions, and side hustles.<br><br>💡 A problem-solver with an eye for detail, I seek elegant solutions to real-world challenges. Continuously learning, I enjoy experimenting with new technologies.<br><br>🤝 Let's connect and create together! Feel free to explore my work and join me on exciting projects. Together, we can make a difference in the tech world!<br><br>Happy coding! 😄👨‍💻
 
 
-## 🌐 Socials:
+## 🌐 Socials: Connect With Me
 [![Linkedin](./Icons/LinkedIn.png)](https://www.linkedin.com/in/gayashan-deshapriya-9a121b1b1/)
 
 
