@@ -11,13 +11,13 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
 
 
 # 💻 Tech Stack:
-### <p align="center">Front-end vs. back-end languages</p>
+<p align="center">Front-end vs. back-end languages</p>
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
   </a>
 </p>
-### <p align="center">Frameworks and Libraries</p>
+<p align="center">Frameworks and Libraries</p>
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs" />
