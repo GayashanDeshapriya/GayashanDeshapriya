@@ -3,7 +3,12 @@
 
 
 ## 🌐 Socials:
-[![Linkedin](./Icons/LinkedIn.svg)<img src="./Icons/LinkedIn.svg" alt="LinkedIn Icon" width="32" height="32">
+[![Linkedin](./Icons/LinkedIn.svg)](https://www.linkedin.com/in/GayashanDeshapriya)
+
+<!-- Display LinkedIn icon as an image with width and height attributes -->
+<img src="./Icons/LinkedIn.svg" alt="LinkedIn Icon" width="32" height="32">
+
+
 (https://www.behance.net/gayashan_96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gayashan Deshapriya) 
 
 # 💻 Tech Stack:
