@@ -34,7 +34,7 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
       <p align="center">Programming Languages</p>
       <p align="center">
         <a href="">
-          <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+          <img src="https://skillicons.dev/icons?i=cpp,java" />
         </a>
       </p>
     </td>
