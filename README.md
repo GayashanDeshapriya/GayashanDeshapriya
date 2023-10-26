@@ -18,7 +18,7 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
       <p align="center">Front-end vs. back-end languages</p>
       <p align="center">
         <a href="">
-          <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,php" />
         </a>
       </p>
     </td>
@@ -26,7 +26,7 @@ A passionate Software Developer. Welcome to my GitHub!<br><br>🚀 I love explor
       <p align="center">Frameworks and Libraries</p>
       <p align="center">
         <a href="">
-          <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs" />
+          <img src="https://skillicons.dev/icons?i=react,angular,nodejs,expressjs" />
         </a>
       </p>
     </td>
