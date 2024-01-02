@@ -3,7 +3,7 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at the Sri Lanka Institute of Information Technology(SLIIT).
+- 🔭 I’m currently a student at the Sri Lanka Institute of Information Technology(SLIIT).
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS, and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gayashan-deshapriya/) [Gmail](mailto:gayashandeshapriya1922@gmail.com)
@@ -38,4 +38,21 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
+  <br>
+<br> 
+  <a href="https://in.linkedin.com/in/piyushp7pravin">
+   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:piyushpravin1998@gmail.com">
+    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
+  <a href="https://twitter.com/PiyushP7pravin">
+    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/piyushp7pravin/">
+    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  </a>
+<br>
+<br>
 
