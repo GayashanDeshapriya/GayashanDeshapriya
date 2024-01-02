@@ -1,17 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm DeshzCoder</h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-<img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
 
 - 🔭 I’m currently a student at the Sri Lanka Institute of Information Technology(SLIIT).
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS, and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: <a href="https://in.linkedin.com/in/piyushp7pravin](https://www.linkedin.com/in/gayashan-deshapriya/">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="right" alt="Gayashan | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:gayashandeshapriya1922@gmail.com">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+    <img align="right" alt="Gayashan | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
