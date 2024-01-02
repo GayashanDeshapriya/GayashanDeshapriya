@@ -2,6 +2,7 @@
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+<img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
 
 - 🔭 I’m currently a student at the Sri Lanka Institute of Information Technology(SLIIT).
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS, and MongoDB.
