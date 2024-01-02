@@ -1,5 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm DeshzCoder</h1>
 <h3 align="center">A passionate Software Developer. Welcome to my GitHub!</h3>
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+
+- 🔭 I’m currently a CS student at the Sri Lanka Institute of Information Technology(SLIIT).
+- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS, and MongoDB.
+- 👯 I’m looking for a software development internship. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gayashan-deshapriya/) [Gmail](mailto:gayashandeshapriya1922@gmail.com)
 <img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
 
 # 💻 Tech Stack:
