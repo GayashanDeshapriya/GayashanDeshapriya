@@ -7,12 +7,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a student at the Sri Lanka Institute of Information Technology(SLIIT).
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS, and MongoDB.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: <a href="[https://www.linkedin.com/in/gayashan-deshapriya/]](https://www.linkedin.com/in/gayashan-deshapriya/)">
-   <img align="right" alt="Gayashan | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-  </a>
-  <a href="mailto:gayashandeshapriya1922@gmail.com">
-    <img align="right" alt="Gayashan | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
-  </a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/gayashan-deshapriya/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:gayashandeshapriya1922@gmail.com)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
