@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm DeshzCoder</h1>
-<h3 align="center">A passionate Software Developer. Welcome to my GitHub!</h3>
+<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
