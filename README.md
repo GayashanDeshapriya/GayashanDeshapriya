@@ -11,6 +11,12 @@ I'm a computer science student who is passionate about writing code, solving pro
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/gayashan-deshapriya/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:gayashandeshapriya1922@gmail.com)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<a href="https://medium.com/@gayashandeshapriya1922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gayashan" height="30" width="40" /></a>
+
+<!-- BLOG-POST-LIST:END -->
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
