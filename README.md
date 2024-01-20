@@ -13,15 +13,12 @@
 -  🔭 I’m currently a student at the Sri Lanka Institute of Information Technology(SLIIT).
 -  📚 I’m currently learning  backend web development using NodeJS, ExpressJS, and MongoDB.
 -  👯 I’m looking for a software development internship. 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/gayashan-deshapriya/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:gayashandeshapriya1922@gmail.com)
 <p align="center">
     <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/gayashan-deshapriya/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/gmail-%23E4415F?style=flat&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:gayashandeshapriya1922@gmail.com"><img src="https://img.shields.io/badge/gmail-%23E4415F?style=flat&logo=gmail&logoColor=white"/></a>
   </p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
