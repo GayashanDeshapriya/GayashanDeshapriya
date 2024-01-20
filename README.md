@@ -4,8 +4,8 @@
    <img alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" autoplay>
  </a>
 </p>
-<p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Gayashan%20Deshapriya;Full%20Stack%20Developer;Open-Source%20Enthusiast;SLIIT%20Undergraduate%20👨‍🎓;Looking%20an%20Internship&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="100%"></a>
+<p align="center" width="50%">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Gayashan%20Deshapriya;Full%20Stack%20Developer;Open-Source%20Enthusiast;SLIIT%20Undergraduate%20👨‍🎓;Looking%20an%20Internship&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="50%"></a>
 </p>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | DevOps | Competitive Programmer  🚀</h3>
 
