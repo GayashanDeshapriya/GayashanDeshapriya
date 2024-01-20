@@ -1,18 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm DeshzCoder</h1>
 <p align="center">
- <a href="https://github.com/IT21158186">
+ <a href="">
    <img alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" autoplay>
  </a>
 </p>
-
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Gayashan%20Deshapriya;Full%20Stack%20Developer;Open-Source%20Enthusiast;SLIIT%20Undergraduate%20👨‍🎓;Looking%20an%20Internship&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="100%"></a>
 </p>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
-<img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
-
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-
+<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | DevOps | Competitive Programmer  🚀</h3>
+- I've been enjoying web Development for the first time since I built my personal portfolio project. I'd especially love to work at a startup on a tight-knit team where I can make an impact quickly. If you're hiring, Let's chat!!
 - 🔭 I’m currently a student at the Sri Lanka Institute of Information Technology(SLIIT).
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS, and MongoDB.
 - 👯 I’m looking for a software development internship. 
