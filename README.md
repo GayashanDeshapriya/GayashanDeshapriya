@@ -24,6 +24,14 @@ Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <a href="https://medium.com/@gayashandeshapriya1922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gayashan" height="30" width="40" /></a>
 
+
+<h2 align="center" >Statistics</h2>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GayashanDeshapriya&theme=transparent" height="180em" />
+<a href="https://github.com/Ashen-sam">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GayashanDeshapriya&theme=transparent" height="180em" />
+
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
