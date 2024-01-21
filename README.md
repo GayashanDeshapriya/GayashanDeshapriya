@@ -20,6 +20,7 @@
     <a href=""><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <a href="mailto:gayashandeshapriya1922@gmail.com"><img src="https://img.shields.io/badge/gmail-%23E4415F?style=flat&logo=gmail&logoColor=white"/></a>
   </p>
+<div align="center">
 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <a href="https://medium.com/@gayashandeshapriya1922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gayashan" height="30" width="40" /></a>
