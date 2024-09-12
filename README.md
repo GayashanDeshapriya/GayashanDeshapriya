@@ -5,7 +5,7 @@
  </a>
 </p>
 <p align="center" width="70%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Gayashan%20Deshapriya;Full%20Stack%20Developer;Open-Source%20Enthusiast;SLIIT%20Undergraduate%20👨‍🎓;Looking%20an%20ASE%20Position&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="70%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Open-Source%20Enthusiast;SLIIT%20Undergraduate%20👨‍🎓;Looking%20an%20ASE%20Position&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="70%"></a>
 </p>
 <h3 align="center">🚀 Full Stack Developer | C# / .NET  | Open Source ♥ | DevOps | Competitive Programmer  🚀</h3>
 
