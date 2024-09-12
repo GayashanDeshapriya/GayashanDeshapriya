@@ -5,13 +5,13 @@
  </a>
 </p>
 <p align="center" width="70%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Gayashan%20Deshapriya;Full%20Stack%20Developer;Open-Source%20Enthusiast;SLIIT%20Undergraduate%20👨‍🎓;Looking%20an%20Internship&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="70%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Gayashan%20Deshapriya;Full%20Stack%20Developer;Open-Source%20Enthusiast;SLIIT%20Undergraduate%20👨‍🎓;Looking%20an%20ASE%20Position&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="70%"></a>
 </p>
 <h3 align="center">🚀 Full Stack Developer | C# / .NET  | Open Source ♥ | DevOps | Competitive Programmer  🚀</h3>
 
 -  I've been enjoying web Development for the first time since I built my personal portfolio project. I'd especially love to work at a startup on a tight-knit team where I can make an impact quickly. If you're hiring, Let's chat!!
 -  🔭 I’m currently a student at the Sri Lanka Institute of Information Technology(SLIIT).
--  📚 I’m currently learning  backend web development using NodeJS,ExpressJS,.NET , MS SQL and MongoDB.
+-  📚 I’m currently learning  Full Stack development using .NET , MS SQL and Angular/Flutter.
 <p align="center">
     <a href="https://twitter.com/mr_deshz19"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/gayashan-deshapriya/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
